@@ -18,60 +18,60 @@ const IMAGE_CATEGORIES = [
     label: 'Dogs',
     emoji: '🐶',
     images: [
-      { src: '/images/jigsaw/dogs/photo-1.png', label: 'Photo 1' },
-      { src: '/images/jigsaw/dogs/photo-2.png', label: 'Photo 2' },
-      { src: '/images/jigsaw/dogs/photo-3.png', label: 'Photo 3' },
-      { src: '/images/jigsaw/dogs/photo-4.png', label: 'Photo 4' },
-      { src: '/images/jigsaw/dogs/photo-5.png', label: 'Photo 5' },
-      { src: '/images/jigsaw/dogs/photo-6.png', label: 'Photo 6' },
+      { src: '/images/jigsaw/dogs/photo-1.jpg', label: 'Photo 1' },
+      { src: '/images/jigsaw/dogs/photo-2.jpg', label: 'Photo 2' },
+      { src: '/images/jigsaw/dogs/photo-3.jpg', label: 'Photo 3' },
+      { src: '/images/jigsaw/dogs/photo-4.jpg', label: 'Photo 4' },
+      { src: '/images/jigsaw/dogs/photo-5.jpg', label: 'Photo 5' },
+      { src: '/images/jigsaw/dogs/photo-6.jpg', label: 'Photo 6' },
     ],
   },
   {
     label: 'Gardens',
     emoji: '🌷',
     images: [
-      { src: '/images/jigsaw/gardening/photo-1.png', label: 'Photo 1' },
-      { src: '/images/jigsaw/gardening/photo-2.png', label: 'Photo 2' },
-      { src: '/images/jigsaw/gardening/photo-3.png', label: 'Photo 3' },
-      { src: '/images/jigsaw/gardening/photo-4.png', label: 'Photo 4' },
-      { src: '/images/jigsaw/gardening/photo-5.png', label: 'Photo 5' },
-      { src: '/images/jigsaw/gardening/photo-6.png', label: 'Photo 6' },
+      { src: '/images/jigsaw/gardens/photo-1.jpg', label: 'Photo 1' },
+      { src: '/images/jigsaw/gardens/photo-2.jpg', label: 'Photo 2' },
+      { src: '/images/jigsaw/gardens/photo-3.jpg', label: 'Photo 3' },
+      { src: '/images/jigsaw/gardens/photo-4.jpg', label: 'Photo 4' },
+      { src: '/images/jigsaw/gardens/photo-5.jpg', label: 'Photo 5' },
+      { src: '/images/jigsaw/gardens/photo-6.jpg', label: 'Photo 6' },
     ],
   },
   {
     label: 'Art',
     emoji: '🎨',
     images: [
-      { src: '/images/jigsaw/art/photo-1.png', label: 'Photo 1' },
-      { src: '/images/jigsaw/art/photo-2.png', label: 'Photo 2' },
-      { src: '/images/jigsaw/art/photo-3.png', label: 'Photo 3' },
-      { src: '/images/jigsaw/art/photo-4.png', label: 'Photo 4' },
-      { src: '/images/jigsaw/art/photo-5.png', label: 'Photo 5' },
-      { src: '/images/jigsaw/art/photo-6.png', label: 'Photo 6' },
+      { src: '/images/jigsaw/art/photo-1.jpg', label: 'Photo 1' },
+      { src: '/images/jigsaw/art/photo-2.jpg', label: 'Photo 2' },
+      { src: '/images/jigsaw/art/photo-3.jpg', label: 'Photo 3' },
+      { src: '/images/jigsaw/art/photo-4.jpg', label: 'Photo 4' },
+      { src: '/images/jigsaw/art/photo-5.jpg', label: 'Photo 5' },
+      { src: '/images/jigsaw/art/photo-6.jpg', label: 'Photo 6' },
     ],
   },
   {
     label: '1960s',
     emoji: '🕰️',
     images: [
-      { src: '/images/jigsaw/1960s/photo-1.png', label: 'Photo 1' },
-      { src: '/images/jigsaw/1960s/photo-2.png', label: 'Photo 2' },
-      { src: '/images/jigsaw/1960s/photo-3.png', label: 'Photo 3' },
-      { src: '/images/jigsaw/1960s/photo-4.png', label: 'Photo 4' },
-      { src: '/images/jigsaw/1960s/photo-5.png', label: 'Photo 5' },
-      { src: '/images/jigsaw/1960s/photo-6.png', label: 'Photo 6' },
+      { src: '/images/jigsaw/1960s/photo-1.jpg', label: 'Photo 1' },
+      { src: '/images/jigsaw/1960s/photo-2.jpg', label: 'Photo 2' },
+      { src: '/images/jigsaw/1960s/photo-3.jpg', label: 'Photo 3' },
+      { src: '/images/jigsaw/1960s/photo-4.jpg', label: 'Photo 4' },
+      { src: '/images/jigsaw/1960s/photo-5.jpg', label: 'Photo 5' },
+      { src: '/images/jigsaw/1960s/photo-6.jpg', label: 'Photo 6' },
     ],
   },
   {
     label: '1970s',
     emoji: '✌️',
     images: [
-      { src: '/images/jigsaw/1970s/photo-1.png', label: 'Photo 1' },
-      { src: '/images/jigsaw/1970s/photo-2.png', label: 'Photo 2' },
-      { src: '/images/jigsaw/1970s/photo-3.png', label: 'Photo 3' },
-      { src: '/images/jigsaw/1970s/photo-4.png', label: 'Photo 4' },
-      { src: '/images/jigsaw/1970s/photo-5.png', label: 'Photo 5' },
-      { src: '/images/jigsaw/1970s/photo-6.png', label: 'Photo 6' },
+      { src: '/images/jigsaw/1970s/photo-1.jpg', label: 'Photo 1' },
+      { src: '/images/jigsaw/1970s/photo-2.jpg', label: 'Photo 2' },
+      { src: '/images/jigsaw/1970s/photo-3.jpg', label: 'Photo 3' },
+      { src: '/images/jigsaw/1970s/photo-4.jpg', label: 'Photo 4' },
+      { src: '/images/jigsaw/1970s/photo-5.jpg', label: 'Photo 5' },
+      { src: '/images/jigsaw/1970s/photo-6.jpg', label: 'Photo 6' },
     ],
   },
 ];
@@ -437,7 +437,7 @@ const JigsawPuzzle = () => {
           <div className="flex items-center justify-center gap-6 text-base text-slate-grey-dark mt-1">
             <span>Moves: <strong>{moves}</strong></span>
             <span>
-              Placed:{' '}
+              Correct:{' '}
               <strong className={correctCount === totalPieces ? 'text-green-600' : ''}>
                 {correctCount}/{totalPieces}
               </strong>
@@ -487,6 +487,8 @@ const JigsawPuzzle = () => {
               const isCorrect      = occupant === slotKey;
               const isSelectedHere = selected?.from === 'board' && selected?.slotKey === slotKey;
               const isTargetSlot   = hasSelection && !occupant;
+              const boardFull      = tray.length === 0;
+              const isWrong        = boardFull && occupant && !isCorrect;
 
               return (
                 <div
@@ -497,6 +499,7 @@ const JigsawPuzzle = () => {
                       ? `border-2 border-dashed ${isTargetSlot ? 'border-rose bg-rose-light/40' : 'border-lavender/50 bg-lavender-light/20'}`
                       : ''}
                     ${isCorrect && !isSelectedHere ? 'ring-2 ring-inset ring-green-400' : ''}
+                    ${isWrong  && !isSelectedHere ? 'ring-2 ring-inset ring-amber-400' : ''}
                     ${isSelectedHere ? 'opacity-40 ring-2 ring-inset ring-rose-dark' : ''}
                   `}
                   style={{ width: pieceSize, height: pieceSize }}
@@ -521,7 +524,13 @@ const JigsawPuzzle = () => {
         </p>
         <div className="bg-white/60 backdrop-blur rounded-2xl border-2 border-lavender p-3 shadow-inner min-h-20 flex flex-wrap gap-2 justify-center">
           {tray.length === 0 ? (
-            <p className="text-slate-grey italic self-center py-4">All pieces are on the board!</p>
+            correctCount === totalPieces ? (
+              <p className="text-slate-grey italic self-center py-4">All pieces are on the board!</p>
+            ) : (
+              <p className="text-amber-600 font-semibold self-center py-4 text-center">
+                Almost! {totalPieces - correctCount} {totalPieces - correctCount === 1 ? 'piece is' : 'pieces are'} in the wrong spot — look for the orange glow.
+              </p>
+            )
           ) : (
             tray.map(id => {
               const isSelected = selected?.id === id && selected?.from === 'tray';
