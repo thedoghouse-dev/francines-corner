@@ -753,7 +753,8 @@ const JigsawPuzzle = () => {
                 <>
                   <div className={`rounded-2xl overflow-hidden border-4 shadow-xl border-rose-dark`}
                     style={{ width: 220 }}>
-                    <img src={uploadedImage.src} alt="Your uploaded image" className="w-full aspect-square object-cover" />
+                    {/* eslint-disable-next-line jsx-a11y/img-redundant-alt */}
+                  <img src={uploadedImage.src} alt="Your uploaded photo" className="w-full aspect-square object-cover" />
                   </div>
                   <label className="cursor-pointer bg-gradient-to-r from-lavender to-lavender-dark text-white font-semibold py-2 px-6 rounded-xl shadow hover:shadow-md transition-all text-base">
                     Change Photo
