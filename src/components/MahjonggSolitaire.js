@@ -318,14 +318,14 @@ const MahjonggSolitaire = () => {
   return (
     <>
       <Helmet>
-        <title>Mahjongg Solitaire - Tile Matching Game | Francine's App</title>
+        <title>Mahjongg Solitaire - Tile Matching Game | Francine's Corner</title>
         <meta name="description" content="Match pairs of tiles in this classic Mahjongg Solitaire game. Choose Easy, Medium, or Hard!" />
-        <meta property="og:title" content="Mahjongg Solitaire - Tile Matching Game | Francine's App" />
+        <meta property="og:title" content="Mahjongg Solitaire - Tile Matching Game | Francine's Corner" />
         <meta property="og:description" content="Match pairs of tiles in this classic Mahjongg Solitaire game. Choose Easy, Medium, or Hard!" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://francinesapp.com/mahjongg" />
+        <meta property="og:url" content="https://francinescorner.com/mahjongg" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Mahjongg Solitaire - Tile Matching Game | Francine's App" />
+        <meta name="twitter:title" content="Mahjongg Solitaire - Tile Matching Game | Francine's Corner" />
         <meta name="twitter:description" content="Match pairs of tiles in this classic Mahjongg Solitaire game. Choose Easy, Medium, or Hard!" />
       </Helmet>
 

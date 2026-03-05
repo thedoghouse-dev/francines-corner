@@ -699,7 +699,7 @@ const JigsawPuzzle = () => {
     return (
       <div className="min-h-screen p-6 sm:p-12 bg-gradient-to-br from-rose-light via-warm-cream-light to-lavender-light flex flex-col items-center">
         <Helmet>
-          <title>Jigsaw Puzzle - Francine's App</title>
+          <title>Jigsaw Puzzle - Francine's Corner</title>
           <meta name="description" content="Jigsaw puzzle game with schnauzer photos" />
         </Helmet>
 
@@ -841,7 +841,7 @@ const JigsawPuzzle = () => {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-rose-light via-warm-cream-light to-lavender-light text-center relative overflow-hidden p-6">
         <Helmet>
-          <title>Puzzle Complete! - Francine's App</title>
+          <title>Puzzle Complete! - Francine's Corner</title>
         </Helmet>
 
         <style>{`
@@ -918,7 +918,7 @@ const JigsawPuzzle = () => {
   return (
     <div className="flex flex-col" style={{ height: '100vh', overflow: 'hidden' }}>
       <Helmet>
-        <title>Jigsaw Puzzle - Francine's App</title>
+        <title>Jigsaw Puzzle - Francine's Corner</title>
       </Helmet>
 
       {/* Header bar */}

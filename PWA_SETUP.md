@@ -1,7 +1,7 @@
 # Progressive Web App (PWA) Setup
 
 ## Overview
-Francine's App is now configured as a Progressive Web App (PWA), which means it can be installed on devices and work offline!
+Francine's Corner is now configured as a Progressive Web App (PWA), which means it can be installed on devices and work offline!
 
 ## Features
 - ✅ **Installable**: Can be installed on desktop and mobile devices

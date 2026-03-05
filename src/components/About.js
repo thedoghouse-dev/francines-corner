@@ -6,19 +6,19 @@ const About = () => {
   return (
     <>
       <Helmet>
-        <title>About Francine's App - Thoughtfully Designed Senior Activities</title>
-        <meta name="description" content="Learn about Francine's App, a digital activity suite designed with accessibility, comfort, and cognitive wellness in mind." />
+        <title>About Francine's Corner - Thoughtfully Designed Senior Activities</title>
+        <meta name="description" content="Learn about Francine's Corner, a digital activity suite designed with accessibility, comfort, and cognitive wellness in mind." />
 
         {/* Open Graph */}
-        <meta property="og:title" content="About Francine's App - Thoughtfully Designed Senior Activities" />
-        <meta property="og:description" content="Learn about Francine's App, a digital activity suite designed with accessibility, comfort, and cognitive wellness in mind." />
+        <meta property="og:title" content="About Francine's Corner - Thoughtfully Designed Senior Activities" />
+        <meta property="og:description" content="Learn about Francine's Corner, a digital activity suite designed with accessibility, comfort, and cognitive wellness in mind." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://francinesapp.com/about" />
+        <meta property="og:url" content="https://francinescorner.com/about" />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="About Francine's App - Thoughtfully Designed Senior Activities" />
-        <meta name="twitter:description" content="Learn about Francine's App, a digital activity suite designed with accessibility, comfort, and cognitive wellness in mind." />
+        <meta name="twitter:title" content="About Francine's Corner - Thoughtfully Designed Senior Activities" />
+        <meta name="twitter:description" content="Learn about Francine's Corner, a digital activity suite designed with accessibility, comfort, and cognitive wellness in mind." />
       </Helmet>
 
       <div className="min-h-screen p-6 sm:p-12 bg-gradient-to-br from-rose-light via-warm-cream-light to-lavender-light">
@@ -35,7 +35,7 @@ const About = () => {
         {/* Header */}
         <header className="text-center mb-12">
           <h1 className="text-5xl sm:text-6xl md:text-7xl font-script font-bold text-transparent bg-clip-text bg-gradient-to-r from-rose-dark via-lavender-dark to-rose-dark mb-6 animate-fadeIn">
-            About Francine's App
+            About Francine's Corner
           </h1>
           <div className="flex items-center justify-center gap-3 mb-6">
             <span className="text-3xl text-rose">✿</span>
@@ -58,7 +58,7 @@ const About = () => {
                 A Digital Activity Suite
               </h2>
               <p className="text-lg sm:text-xl leading-relaxed">
-                Francine's App is a thoughtfully designed collection of digital activities created to provide
+                Francine's Corner is a thoughtfully designed collection of digital activities created to provide
                 engaging and enjoyable experiences for seniors. Each activity is crafted with care,
                 featuring calming colors, clear visuals, and intuitive controls.
               </p>

@@ -226,7 +226,7 @@ const BubblePop = () => {
   return (
     <div className="min-h-screen p-4 sm:p-6 bg-gradient-to-br from-rose-light via-warm-cream-light to-lavender-light">
       <Helmet>
-        <title>Bubble Pop - Francine's App</title>
+        <title>Bubble Pop - Francine's Corner</title>
         <meta name="description" content="Match 3 or more bubbles to pop them!" />
       </Helmet>
 

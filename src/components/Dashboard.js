@@ -14,18 +14,18 @@ const Dashboard = () => {
   return (
     <>
       <Helmet>
-        <title>Francine's App - Memory Games & Activities for Cognitive Wellness</title>
+        <title>Francine's Corner - Memory Games & Activities for Cognitive Wellness</title>
         <meta name="description" content="Premium digital activity suite featuring Memory Match, Word Search, and Solitaire. Designed with love for seniors and cognitive wellness." />
 
         {/* Open Graph */}
-        <meta property="og:title" content="Francine's App - Memory Games & Activities for Cognitive Wellness" />
+        <meta property="og:title" content="Francine's Corner - Memory Games & Activities for Cognitive Wellness" />
         <meta property="og:description" content="Premium digital activity suite featuring Memory Match, Word Search, and Solitaire. Designed with love for seniors and cognitive wellness." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://francinesapp.com/" />
+        <meta property="og:url" content="https://francinescorner.com/" />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Francine's App - Memory Games & Activities for Cognitive Wellness" />
+        <meta name="twitter:title" content="Francine's Corner - Memory Games & Activities for Cognitive Wellness" />
         <meta name="twitter:description" content="Premium digital activity suite featuring Memory Match, Word Search, and Solitaire. Designed with love for seniors and cognitive wellness." />
       </Helmet>
 
@@ -41,7 +41,7 @@ const Dashboard = () => {
       {/* Header */}
       <header className="text-center mb-12 relative z-10">
         <h1 className="text-5xl sm:text-6xl md:text-7xl font-script font-bold text-transparent bg-clip-text bg-gradient-to-r from-rose-dark via-lavender-dark to-rose-dark mb-4 animate-fadeIn">
-          Francine's App
+          Francine's Corner
         </h1>
         <div className="flex items-center justify-center gap-3 mb-2">
           <span className="text-3xl text-rose">✿</span>

@@ -195,18 +195,18 @@ const WordSearch = () => {
   return (
     <>
       <Helmet>
-        <title>Word Search Puzzle - Find Hidden Words | Francine's App</title>
+        <title>Word Search Puzzle - Find Hidden Words | Francine's Corner</title>
         <meta name="description" content="Find hidden words in beautifully designed grids. Three difficulty levels from 6x6 to 10x10." />
 
         {/* Open Graph */}
-        <meta property="og:title" content="Word Search Puzzle - Find Hidden Words | Francine's App" />
+        <meta property="og:title" content="Word Search Puzzle - Find Hidden Words | Francine's Corner" />
         <meta property="og:description" content="Find hidden words in beautifully designed grids. Three difficulty levels from 6x6 to 10x10." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://francinesapp.com/word-search" />
+        <meta property="og:url" content="https://francinescorner.com/word-search" />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Word Search Puzzle - Find Hidden Words | Francine's App" />
+        <meta name="twitter:title" content="Word Search Puzzle - Find Hidden Words | Francine's Corner" />
         <meta name="twitter:description" content="Find hidden words in beautifully designed grids. Three difficulty levels from 6x6 to 10x10." />
       </Helmet>
 

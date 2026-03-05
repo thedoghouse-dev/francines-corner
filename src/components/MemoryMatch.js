@@ -187,18 +187,18 @@ const MemoryMatch = () => {
   return (
     <>
       <Helmet>
-        <title>Memory Match Game - Colorful Card Matching | Francine's App</title>
+        <title>Memory Match Game - Colorful Card Matching | Francine's Corner</title>
         <meta name="description" content="Match colorful pairs in this gentle memory game. Three difficulty levels with vibrant icons and smooth animations." />
 
         {/* Open Graph */}
-        <meta property="og:title" content="Memory Match Game - Colorful Card Matching | Francine's App" />
+        <meta property="og:title" content="Memory Match Game - Colorful Card Matching | Francine's Corner" />
         <meta property="og:description" content="Match colorful pairs in this gentle memory game. Three difficulty levels with vibrant icons and smooth animations." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://francinesapp.com/memory-match" />
+        <meta property="og:url" content="https://francinescorner.com/memory-match" />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Memory Match Game - Colorful Card Matching | Francine's App" />
+        <meta name="twitter:title" content="Memory Match Game - Colorful Card Matching | Francine's Corner" />
         <meta name="twitter:description" content="Match colorful pairs in this gentle memory game. Three difficulty levels with vibrant icons and smooth animations." />
       </Helmet>
 

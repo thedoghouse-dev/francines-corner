@@ -113,7 +113,7 @@ const FlowerGarden = () => {
   return (
     <div className="min-h-screen p-4 sm:p-8 bg-gradient-to-br from-green-50 via-warm-cream-light to-rose-light">
       <Helmet>
-        <title>Flower Garden - Francine's App</title>
+        <title>Flower Garden - Francine's Corner</title>
         <meta name="description" content="Plant seeds and watch your flower garden bloom." />
       </Helmet>
 

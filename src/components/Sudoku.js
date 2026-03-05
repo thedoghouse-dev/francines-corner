@@ -240,14 +240,14 @@ const Sudoku = () => {
   return (
     <>
       <Helmet>
-        <title>Sudoku - Number Puzzle | Francine's App</title>
+        <title>Sudoku - Number Puzzle | Francine's Corner</title>
         <meta name="description" content="Classic Sudoku with Easy, Medium, and Hard difficulty. Fill every row, column, and box with numbers 1–9!" />
-        <meta property="og:title" content="Sudoku - Number Puzzle | Francine's App" />
+        <meta property="og:title" content="Sudoku - Number Puzzle | Francine's Corner" />
         <meta property="og:description" content="Classic Sudoku with Easy, Medium, and Hard difficulty." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://francinesapp.com/sudoku" />
+        <meta property="og:url" content="https://francinescorner.com/sudoku" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Sudoku - Number Puzzle | Francine's App" />
+        <meta name="twitter:title" content="Sudoku - Number Puzzle | Francine's Corner" />
         <meta name="twitter:description" content="Classic Sudoku with Easy, Medium, and Hard difficulty." />
       </Helmet>
 

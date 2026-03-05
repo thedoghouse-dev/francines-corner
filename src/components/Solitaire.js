@@ -248,18 +248,18 @@ const Solitaire = () => {
   return (
     <>
       <Helmet>
-        <title>Klondike Solitaire - Classic Card Game | Francine's App</title>
+        <title>Klondike Solitaire - Classic Card Game | Francine's Corner</title>
         <meta name="description" content="Classic Klondike Solitaire with adjustable difficulty. Large cards, clear visuals, and easy-to-use interface." />
 
         {/* Open Graph */}
-        <meta property="og:title" content="Klondike Solitaire - Classic Card Game | Francine's App" />
+        <meta property="og:title" content="Klondike Solitaire - Classic Card Game | Francine's Corner" />
         <meta property="og:description" content="Classic Klondike Solitaire with adjustable difficulty. Large cards, clear visuals, and easy-to-use interface." />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://francinesapp.com/solitaire" />
+        <meta property="og:url" content="https://francinescorner.com/solitaire" />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Klondike Solitaire - Classic Card Game | Francine's App" />
+        <meta name="twitter:title" content="Klondike Solitaire - Classic Card Game | Francine's Corner" />
         <meta name="twitter:description" content="Classic Klondike Solitaire with adjustable difficulty. Large cards, clear visuals, and easy-to-use interface." />
       </Helmet>
 

@@ -1,4 +1,4 @@
-# Deployment Guide for Francine's App
+# Deployment Guide for Francine's Corner
 
 ## GitHub Pages Deployment
 
@@ -70,9 +70,9 @@ git push
 npm run deploy
 ```
 
-### Using a Custom Domain (francinesapp.com)
+### Using a Custom Domain (francinescorner.com)
 
-If you own `francinesapp.com`:
+If you own `francinescorner.com`:
 
 1. In your domain registrar (GoDaddy, Namecheap, etc.), add these DNS records:
    ```
@@ -99,12 +99,12 @@ If you own `francinesapp.com`:
 
 2. Create a file named `CNAME` in the `public` folder:
    ```
-   francinesapp.com
+   francinescorner.com
    ```
 
 3. Update `package.json` homepage to:
    ```json
-   "homepage": "https://francinesapp.com",
+   "homepage": "https://francinescorner.com",
    ```
 
 4. Commit and deploy:
@@ -114,7 +114,7 @@ If you own `francinesapp.com`:
    npm run deploy
    ```
 
-5. In GitHub repository Settings > Pages, add your custom domain: `francinesapp.com`
+5. In GitHub repository Settings > Pages, add your custom domain: `francinescorner.com`
 
 DNS propagation can take 24-48 hours.
 
