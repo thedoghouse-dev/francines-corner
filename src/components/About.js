@@ -72,6 +72,13 @@ const About = () => {
                 <div className="flex items-start gap-3">
                   <span className="text-2xl text-peach mt-1">✿</span>
                   <div>
+                    <strong className="text-peach-dark">Jigsaw Puzzle:</strong>
+                    <span className="ml-2">Drag and snap real interlocking pieces together from a choice of photos — or upload your own. Available in 16, 36, and 64 pieces.</span>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <span className="text-2xl text-peach mt-1">✿</span>
+                  <div>
                     <strong className="text-peach-dark">Solitaire:</strong>
                     <span className="ml-2">Classic card game with helpful hints and adjustable difficulty levels.</span>
                   </div>
@@ -84,10 +91,38 @@ const About = () => {
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
+                  <span className="text-2xl text-spa-teal mt-1">✿</span>
+                  <div>
+                    <strong className="text-spa-teal-dark">Mahjongg Solitaire:</strong>
+                    <span className="ml-2">Clear the board by matching pairs of tiles in this timeless classic.</span>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
                   <span className="text-2xl text-rose mt-1">✿</span>
                   <div>
                     <strong className="text-rose-dark">Memory Match:</strong>
                     <span className="ml-2">Match colorful pairs to exercise memory in a gentle, rewarding way.</span>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <span className="text-2xl mt-1" style={{color:'#3B82F6'}}>✿</span>
+                  <div>
+                    <strong style={{color:'#1D4ED8'}}>Sudoku:</strong>
+                    <span className="ml-2">Fill the 9×9 grid using logic and deduction — a wonderful daily brain workout.</span>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <span className="text-2xl mt-1" style={{color:'#15803d'}}>✿</span>
+                  <div>
+                    <strong style={{color:'#15803d'}}>Flower Garden:</strong>
+                    <span className="ml-2">A relaxing activity where you plant seeds and watch a colorful garden bloom.</span>
+                  </div>
+                </div>
+                <div className="flex items-start gap-3">
+                  <span className="text-2xl text-lavender mt-1">✿</span>
+                  <div>
+                    <strong className="text-lavender-dark">Bubble Pop:</strong>
+                    <span className="ml-2">Swap and match three bubbles to pop them in this cheerful match-3 game.</span>
                   </div>
                 </div>
               </div>
